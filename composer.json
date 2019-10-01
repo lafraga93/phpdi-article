@@ -1,0 +1,13 @@
+{
+    "name": "lafraga93/phpdi-article",
+    "description": "Exemplos utilizados no artigo Dependency Injection na vida real com PHP",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "monolog/monolog": "^2.0",
+        "php-di/php-di": "^6.0"
+    }
+}
