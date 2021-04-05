@@ -10,7 +10,7 @@ https://blog.lafraga.me/2019/09/30/dependency-injection-na-vida-real-com-php/
 
 ### Use
 
-`php bin/bootstrap.php <example> // 1, 2, 3 or 4
+`php bin/bootstrap.php <example> // 1, 2, 3 or 4`
 
 ### Output
 
